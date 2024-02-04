@@ -1,7 +1,7 @@
 {
     "name":"CreSuit Creator",
     "short_name":"CreSuit",
-    "start_url":".",
+    "start_url":"file:///C:/Users/aibal/Downloads/wer/src/test.html",
     "background_color": "white",
     "theme_color":"blue" 
 }
